@@ -6,7 +6,7 @@
       "author": "Markpad",
       "description": "Warm brown paper, amber accent — the worked example every install starts from.",
       "file": "Sepia.json",
-      "preview": null
+      "preview": "previews/Sepia.png"
     },
     {
       "id": "solar",
@@ -14,7 +14,7 @@
       "author": "Markpad",
       "description": "Cream and deep teal, blue and cyan accents, Georgia body, gold Avenir Next headings.",
       "file": "Solar.json",
-      "preview": null
+      "preview": "previews/Solar.png"
     },
     {
       "id": "graphite",
@@ -22,7 +22,7 @@
       "author": "Markpad",
       "description": "Neutral greys, black-and-white ink, one orange, Helvetica Neue body, Futura headings, square dense chrome.",
       "file": "Graphite.json",
-      "preview": null
+      "preview": "previews/Graphite.png"
     },
     {
       "id": "rose",
@@ -30,7 +30,7 @@
       "author": "Markpad",
       "description": "Dusty pink paper, plum ink, rose accent, Palatino body, Didot headings — soft evening reading.",
       "file": "Rose.json",
-      "preview": null
+      "preview": "previews/Rose.png"
     },
     {
       "id": "forest",
@@ -38,7 +38,7 @@
       "author": "Markpad",
       "description": "Moss paper, green-black night, sage accent, Baskerville body, Gill Sans headings.",
       "file": "Forest.json",
-      "preview": null
+      "preview": "previews/Forest.png"
     },
     {
       "id": "fjord",
@@ -46,7 +46,7 @@
       "author": "Markpad",
       "description": "Blue-grey and slate, frost-blue accent, Avenir Next throughout, Menlo code, roomier rows.",
       "file": "Fjord.json",
-      "preview": null
+      "preview": "previews/Fjord.png"
     },
     {
       "id": "typewriter",
@@ -54,7 +54,7 @@
       "author": "Markpad",
       "description": "Courier New throughout, amber accent, square dense chrome, headings kept small.",
       "file": "Typewriter.json",
-      "preview": null
+      "preview": "previews/Typewriter.png"
     }
   ]
 }
