@@ -1,0 +1,12 @@
+{
+  "themes": [
+    {
+      "id": "sepia",
+      "name": "Sepia",
+      "author": "Markpad",
+      "description": "Warm brown paper, amber accent \u2014 the worked example every install starts from.",
+      "file": "Sepia.json",
+      "preview": null
+    }
+  ]
+}
