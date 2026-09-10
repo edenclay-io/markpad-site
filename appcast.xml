@@ -3,38 +3,38 @@
     <channel>
         <title>Markpad</title>
         <item>
+            <title>0.1.396</title>
+            <pubDate>Thu, 10 Sep 2026 11:36:34 -0500</pubDate>
+            <sparkle:version>396</sparkle:version>
+            <sparkle:shortVersionString>0.1.396</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad-0.1.396.dmg" length="9786356" type="application/octet-stream" sparkle:edSignature="oMk7sjq7dBiPLZzaAv/GYYkF7hZYl9SU5NNEiesERIcEyKbyiymtnv9RpxP5q2CUVYaWsxXcm2ldWU4Vrg29BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad396-379.delta" sparkle:deltaFrom="379" length="1111170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xlqwex9ZSEb3CPxIkO61OHh0NSNHgnWFG3KwM6inRYiKmvwrjhZ40x4J0xMwasNxcnnuSE5e2zxBxHiJADxeBg=="/>
+                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad396-342.delta" sparkle:deltaFrom="342" length="1814458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+5/yfn5ctJiP5ObPUwLTy2jdr3YllLlmmQByuyYFonZYlP4D5eoyBG/19WlWWjcbJ7j/yTW5QglPtPNoZqt+Aw=="/>
+                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad396-309.delta" sparkle:deltaFrom="309" length="1988046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OCHlYhrhuKH6X+0qGJ/PH2y1SwVw3mR5unIUVg73vMeU4CDF/9oGxdwEE21yzyHJBwW0SPwpRD6NGdvlZ5WRBw=="/>
+                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad396-267.delta" sparkle:deltaFrom="267" length="2373878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kCz/drzqiZl70OxieWUAtImoQxF8Xg6mDv0aqfv8XQQaPj5+jI+YDG/F0qFdhLkqMPvi8yBDtaYnksStB8qkDA=="/>
+                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad396-249.delta" sparkle:deltaFrom="249" length="3267362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JPzMEnFPG98J9cw6O38tjaVYQxItsWsUKsTMY3xpG18EkHVvGK+PR+qVVcjCHksZdipaR5j+OZwhzWusD0+jBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.379</title>
-            <pubDate>Wed, 09 Sep 2026 20:56:12 -0500</pubDate>
+            <pubDate>Thu, 10 Sep 2026 11:36:37 -0500</pubDate>
             <sparkle:version>379</sparkle:version>
             <sparkle:shortVersionString>0.1.379</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad-0.1.379.dmg" length="9444635" type="application/octet-stream" sparkle:edSignature="2h/fcwPLO4w6Z4VaCd9BTWMfXVjRfwFYrg3GBYEMIX2WDQ9Nm0rWUyN++kw4AQX/QAuP25tG2G0HbE4ViX72DA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad379-342.delta" sparkle:deltaFrom="342" length="1456818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zt4aCgEu2712oQc1Ussv5HPT6ASknWastoq9wrPj1pWUdrV7cZCIDkhM8SxfWAssaNullv557oOK16KHC1MdBg=="/>
-                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad379-309.delta" sparkle:deltaFrom="309" length="1675414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="amRmMdaMjR0WE1tkEK2Zw1icmG6BFw79i1NzNwJLlfWIa14TBfir2xSCnNf1hAKCHTVr9yYQGmTIUwWjXn+1Cg=="/>
-                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad379-267.delta" sparkle:deltaFrom="267" length="2092450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B6R4oOlOyeu2JCfuqC8Xucwx3LgIPO+MAOoHj5Q+xH+FAlpaz/lJFttXKx/xWUmxLFZ2WJrRlEsVuY/HeyUtCg=="/>
-                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad379-249.delta" sparkle:deltaFrom="249" length="2998730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lgsA6CIX3IKwikFknii/QDaRb6AeZ1+ExYJyjonWYlqt/nIYcqAcSO8R+Xzq31iXXXPIAGa4MmsiqxR9Rn5SCA=="/>
-                <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad379-230.delta" sparkle:deltaFrom="230" length="3198226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JvfrPPsn0AtiYMRkcsqCAlGplUNHaRYqm+3LK8SX1cnet5VKqIMWGbOQmrWlf+rYuYO+58Offy7mJSHViwFmDw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.342</title>
-            <pubDate>Wed, 09 Sep 2026 20:56:20 -0500</pubDate>
+            <pubDate>Thu, 10 Sep 2026 11:36:37 -0500</pubDate>
             <sparkle:version>342</sparkle:version>
             <sparkle:shortVersionString>0.1.342</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad-0.1.342.dmg" length="9175798" type="application/octet-stream" sparkle:edSignature="zvdJrDMehRazdO4Ja8f1a1Zce19DWOwcxkMC0dm6Jq564/3YOEkKElS12ueUiDtLGwfezv/DM6GzqnHkRZ0kCQ=="/>
-        </item>
-        <item>
-            <title>0.1.309</title>
-            <pubDate>Wed, 09 Sep 2026 20:56:20 -0500</pubDate>
-            <sparkle:version>309</sparkle:version>
-            <sparkle:shortVersionString>0.1.309</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://edenclay-io.github.io/markpad-site/releases/Markpad-0.1.309.dmg" length="8970461" type="application/octet-stream" sparkle:edSignature="TxWksp6xLB2BJITQWyVa/sDupjxrt799a7yiTry4S4XPjbUNRCk/e89l7wnTC9jrYo6GeVfT6aFoYrvVYpBQAg=="/>
         </item>
     </channel>
 </rss>
