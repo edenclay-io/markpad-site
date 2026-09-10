@@ -1,0 +1,54 @@
+{
+  "name": "Solar",
+  "colors": {
+    "editor": {
+      "light": "#FDF6E3",
+      "dark": "#00212B"
+    },
+    "chrome": {
+      "light": "#EEE8D5",
+      "dark": "#002B36"
+    },
+    "ink": {
+      "light": "#073642",
+      "dark": "#C9D3D3"
+    },
+    "secondary": {
+      "light": "#586E75",
+      "dark": "#839496"
+    },
+    "tertiary": {
+      "light": "#93A1A1",
+      "dark": "#586E75"
+    },
+    "accent": {
+      "light": "#1F6FA8",
+      "dark": "#2AA198"
+    },
+    "headings": {
+      "light": "#8A6800",
+      "dark": "#B58900"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.1,
+      "dark": 0.1
+    },
+    "sidebarSelection": {
+      "light": 0.1,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Georgia",
+    "headings": "Avenir Next",
+    "code": "mono",
+    "headingWeight": "semibold"
+  },
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  }
+}

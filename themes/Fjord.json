@@ -1,0 +1,54 @@
+{
+  "name": "Fjord",
+  "colors": {
+    "editor": {
+      "light": "#F5F7FA",
+      "dark": "#1E222A"
+    },
+    "chrome": {
+      "light": "#E9EDF2",
+      "dark": "#262B35"
+    },
+    "ink": {
+      "light": "#2E3440",
+      "dark": "#D8DEE9"
+    },
+    "secondary": {
+      "light": "#5E6A7E",
+      "dark": "#A3ADC2"
+    },
+    "tertiary": {
+      "light": "#8A94A8",
+      "dark": "#6B7386"
+    },
+    "accent": {
+      "light": "#3F6FA5",
+      "dark": "#88B4E6"
+    },
+    "headings": {
+      "light": "#2C5F8A",
+      "dark": "#A5CBEF"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.1,
+      "dark": 0.1
+    },
+    "sidebarSelection": {
+      "light": 0.1,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Avenir Next",
+    "headings": "Avenir Next",
+    "code": "Menlo",
+    "headingWeight": "semibold"
+  },
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 26,
+    "tabHeight": 30
+  }
+}

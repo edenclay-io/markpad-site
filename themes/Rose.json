@@ -1,0 +1,54 @@
+{
+  "name": "Ros\u00e9",
+  "colors": {
+    "editor": {
+      "light": "#FAF4F4",
+      "dark": "#191724"
+    },
+    "chrome": {
+      "light": "#F2E9EA",
+      "dark": "#1F1D2E"
+    },
+    "ink": {
+      "light": "#575279",
+      "dark": "#E0DEF4"
+    },
+    "secondary": {
+      "light": "#655F80",
+      "dark": "#908CAA"
+    },
+    "tertiary": {
+      "light": "#9893A5",
+      "dark": "#6E6A86"
+    },
+    "accent": {
+      "light": "#9A4A61",
+      "dark": "#EBBCBA"
+    },
+    "headings": {
+      "light": "#7A5E96",
+      "dark": "#C4A7E7"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.12,
+      "dark": 0.1
+    },
+    "sidebarSelection": {
+      "light": 0.12,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Palatino",
+    "headings": "Didot",
+    "code": "mono",
+    "headingWeight": "bold"
+  },
+  "chrome": {
+    "radius": 6,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  }
+}

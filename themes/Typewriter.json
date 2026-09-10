@@ -1,0 +1,64 @@
+{
+  "name": "Typewriter",
+  "colors": {
+    "editor": {
+      "light": "#F4F1EA",
+      "dark": "#161513"
+    },
+    "chrome": {
+      "light": "#E9E4DA",
+      "dark": "#1E1C19"
+    },
+    "ink": {
+      "light": "#262320",
+      "dark": "#DCD6C8"
+    },
+    "secondary": {
+      "light": "#6B655C",
+      "dark": "#A39C90"
+    },
+    "tertiary": {
+      "light": "#928B80",
+      "dark": "#6E6860"
+    },
+    "accent": {
+      "light": "#9E5216",
+      "dark": "#E3A059"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.12,
+      "dark": 0.12
+    },
+    "sidebarSelection": {
+      "light": 0.1,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Courier New",
+    "headings": "Courier New",
+    "code": "Courier New",
+    "headingWeight": "bold"
+  },
+  "chrome": {
+    "radius": 0,
+    "sidebarRowHeight": 22,
+    "tabHeight": 26
+  },
+  "scale": {
+    "h1": {
+      "size": 24,
+      "leading": 33
+    },
+    "h2": {
+      "size": 20,
+      "leading": 29
+    },
+    "h3": {
+      "size": 17,
+      "leading": 27
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Graphite",
+  "colors": {
+    "editor": {
+      "light": "#FFFFFF",
+      "dark": "#111111"
+    },
+    "chrome": {
+      "light": "#F2F2F2",
+      "dark": "#1A1A1A"
+    },
+    "ink": {
+      "light": "#111111",
+      "dark": "#EDEDED"
+    },
+    "secondary": {
+      "light": "#555555",
+      "dark": "#A0A0A0"
+    },
+    "tertiary": {
+      "light": "#8C8C8C",
+      "dark": "#6A6A6A"
+    },
+    "accent": {
+      "light": "#C4500F",
+      "dark": "#FF8A3D"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.12,
+      "dark": 0.12
+    },
+    "sidebarSelection": {
+      "light": 0.1,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Helvetica Neue",
+    "headings": "Futura",
+    "code": "mono",
+    "headingWeight": "medium"
+  },
+  "chrome": {
+    "radius": 0,
+    "sidebarRowHeight": 22,
+    "tabHeight": 26
+  },
+  "metrics": {
+    "cardRadius": 0,
+    "checkboxRadius": 0
+  }
+}

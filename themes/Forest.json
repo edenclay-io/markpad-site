@@ -1,0 +1,58 @@
+{
+  "name": "Forest",
+  "colors": {
+    "editor": {
+      "light": "#F3F6F0",
+      "dark": "#0F1511"
+    },
+    "chrome": {
+      "light": "#E7ECE2",
+      "dark": "#16201A"
+    },
+    "ink": {
+      "light": "#1E2A22",
+      "dark": "#D5DECF"
+    },
+    "secondary": {
+      "light": "#5A6B5E",
+      "dark": "#9DAA9A"
+    },
+    "tertiary": {
+      "light": "#8A9A8C",
+      "dark": "#6A7A6E"
+    },
+    "accent": {
+      "light": "#3D7A4F",
+      "dark": "#7FBF8F"
+    },
+    "headings": {
+      "light": "#2E5A3C",
+      "dark": "#A8D5B0"
+    },
+    "diffAdded": {
+      "light": "#2F6FA5",
+      "dark": "#7FB0E0"
+    }
+  },
+  "washes": {
+    "hairline": {
+      "light": 0.1,
+      "dark": 0.1
+    },
+    "sidebarSelection": {
+      "light": 0.1,
+      "dark": 0.18
+    }
+  },
+  "fonts": {
+    "body": "Baskerville",
+    "headings": "Gill Sans",
+    "code": "mono",
+    "headingWeight": "heavy"
+  },
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  }
+}
