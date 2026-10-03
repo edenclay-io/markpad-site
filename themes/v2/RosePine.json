@@ -1,0 +1,97 @@
+{
+  "about": "Colours from Rosé Pine (Dawn and Main), © mvllow, MIT licence (github.com/rose-pine/rose-pine-palette). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: tertiary, syntax.keyword).",
+  "chrome": {
+    "radius": 6,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#EBBCBA",
+      "light": "#CF6863"
+    },
+    "chrome": {
+      "dark": "#1F1D2E",
+      "light": "#FFFAF3"
+    },
+    "editor": {
+      "dark": "#191724",
+      "light": "#FAF4ED"
+    },
+    "h1": {
+      "dark": "#C4A7E7",
+      "light": "#7E649B"
+    },
+    "h2": {
+      "dark": "#9CCFD8",
+      "light": "#286983"
+    },
+    "ink": {
+      "dark": "#E0DEF4",
+      "light": "#575279"
+    },
+    "link": {
+      "dark": "#EBBCBA",
+      "light": "#BA403A"
+    },
+    "quoteFill": {
+      "dark": "#E0DEF40F",
+      "light": "#5752790F"
+    },
+    "secondary": {
+      "dark": "#908CAA",
+      "light": "#6A6683"
+    },
+    "sidebar": {
+      "dark": "#1F1D2E",
+      "light": "#FFFAF3"
+    },
+    "statusBar": {
+      "dark": "#1F1D2E",
+      "light": "#F2E9E1"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#6E6A86",
+        "light": "#8D889C"
+      },
+      "function": {
+        "dark": "#EBBCBA",
+        "light": "#BE413B"
+      },
+      "keyword": {
+        "dark": "#3D90B1",
+        "light": "#286983"
+      },
+      "number": {
+        "dark": "#F6C177",
+        "light": "#995F10"
+      },
+      "string": {
+        "dark": "#F6C177",
+        "light": "#995F10"
+      },
+      "type": {
+        "dark": "#9CCFD8",
+        "light": "#44757E"
+      }
+    },
+    "tertiary": {
+      "dark": "#706C89",
+      "light": "#888297"
+    }
+  },
+  "fonts": {
+    "body": "Crimson Pro",
+    "code": "IBM Plex Mono",
+    "headingWeight": "semibold",
+    "headings": "Fraunces"
+  },
+  "name": "Rosé Pine",
+  "overrides": {
+    "quoteBar": {
+      "dark": "#00000000",
+      "light": "#00000000"
+    }
+  }
+}

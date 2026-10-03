@@ -1,0 +1,87 @@
+{
+  "about": "Colours from Nord, © 2016-present Sven Greb, MIT licence (github.com/nordtheme/nord). The light side is Markpad's, after Nord's bright-ambiance guide. Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, tertiary, link, h1, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword, syntax.number, syntax.comment).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#88C0D0",
+      "light": "#5B7EAA"
+    },
+    "chrome": {
+      "dark": "#3B4252",
+      "light": "#E5E9F0"
+    },
+    "editor": {
+      "dark": "#2E3440",
+      "light": "#ECEFF4"
+    },
+    "h1": {
+      "dark": "#88C0D0",
+      "light": "#4D6D95"
+    },
+    "h2": {
+      "dark": "#81A1C1",
+      "light": "#4C566A"
+    },
+    "ink": {
+      "dark": "#D8DEE9",
+      "light": "#2E3440"
+    },
+    "link": {
+      "dark": "#88C0D0",
+      "light": "#4D6D95"
+    },
+    "secondary": {
+      "dark": "#A6B0C4",
+      "light": "#4C566A"
+    },
+    "sidebar": {
+      "dark": "#3B4252",
+      "light": "#E5E9F0"
+    },
+    "statusBar": {
+      "dark": "#3B4252",
+      "light": "#D8DEE9"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#78859F",
+        "light": "#78859F"
+      },
+      "function": {
+        "dark": "#88C0D0",
+        "light": "#337082"
+      },
+      "keyword": {
+        "dark": "#88A6C4",
+        "light": "#4B6A91"
+      },
+      "number": {
+        "dark": "#BA97B4",
+        "light": "#875A7F"
+      },
+      "string": {
+        "dark": "#A3BE8C",
+        "light": "#577140"
+      },
+      "type": {
+        "dark": "#8FBCBB",
+        "light": "#436F6E"
+      }
+    },
+    "tertiary": {
+      "dark": "#78859F",
+      "light": "#78859F"
+    }
+  },
+  "fonts": {
+    "body": "Geist",
+    "code": "JetBrains Mono",
+    "headingWeight": "semibold",
+    "headings": "Geist"
+  },
+  "name": "Nord"
+}

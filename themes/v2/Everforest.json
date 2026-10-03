@@ -1,0 +1,86 @@
+{
+  "about": "Colours from Everforest, © 2019 sainnhe, MIT licence (github.com/sainnhe/everforest). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, syntax.keyword).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#A7C080",
+      "light": "#7B8D01"
+    },
+    "chrome": {
+      "dark": "#232A2E",
+      "light": "#EFEBD4"
+    },
+    "editor": {
+      "dark": "#2D353B",
+      "light": "#FDF6E3"
+    },
+    "h1": {
+      "dark": "#83C092",
+      "light": "#277C5C"
+    },
+    "h2": {
+      "dark": "#7FBBB3",
+      "light": "#2E769E"
+    },
+    "ink": {
+      "dark": "#D3C6AA",
+      "light": "#57656C"
+    },
+    "link": {
+      "dark": "#A7C080",
+      "light": "#697801"
+    },
+    "secondary": {
+      "dark": "#A0ABA3",
+      "light": "#5F6C5E"
+    },
+    "sidebar": {
+      "dark": "#232A2E",
+      "light": "#EFEBD4"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#859289",
+        "light": "#808E7E"
+      },
+      "function": {
+        "dark": "#A7C080",
+        "light": "#657301"
+      },
+      "keyword": {
+        "dark": "#E88788",
+        "light": "#DB0D09"
+      },
+      "number": {
+        "dark": "#D699B6",
+        "light": "#C32A93"
+      },
+      "string": {
+        "dark": "#A7C080",
+        "light": "#657301"
+      },
+      "type": {
+        "dark": "#DBBC7F",
+        "light": "#8D6500"
+      }
+    },
+    "tertiary": {
+      "dark": "#859289",
+      "light": "#808E7E"
+    }
+  },
+  "fonts": {
+    "body": "Baskerville",
+    "code": "mono",
+    "headingWeight": "semibold",
+    "headings": "Gill Sans"
+  },
+  "name": "Everforest",
+  "paper": {
+    "texture": "grain"
+  }
+}

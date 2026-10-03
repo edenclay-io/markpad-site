@@ -1,0 +1,54 @@
+{
+  "about": "A Markpad theme: one typewriter face, warm paper with a grain.",
+  "chrome": {
+    "radius": 0,
+    "sidebarRowHeight": 22,
+    "tabHeight": 26
+  },
+  "colors": {
+    "accent": {
+      "dark": "#E3A059",
+      "light": "#9E5216"
+    },
+    "chrome": {
+      "dark": "#1E1C19",
+      "light": "#E9E4DA"
+    },
+    "editor": {
+      "dark": "#161513",
+      "light": "#F4F1EA"
+    },
+    "ink": {
+      "dark": "#DCD6C8",
+      "light": "#262320"
+    },
+    "secondary": {
+      "dark": "#A39C90",
+      "light": "#6B655C"
+    },
+    "sidebar": {
+      "dark": "#121110",
+      "light": "#E9E4DA"
+    },
+    "tertiary": {
+      "dark": "#6E6860",
+      "light": "#8D867B"
+    }
+  },
+  "fonts": {
+    "body": "IBM Plex Mono",
+    "code": "IBM Plex Mono",
+    "headingWeight": "semibold",
+    "headings": "IBM Plex Mono"
+  },
+  "name": "Typewriter",
+  "overrides": {
+    "quoteBar": {
+      "dark": "#00000000",
+      "light": "#00000000"
+    }
+  },
+  "paper": {
+    "texture": "grain"
+  }
+}

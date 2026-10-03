@@ -1,0 +1,85 @@
+{
+  "about": "Colours from Kanagawa (Lotus and Wave), © 2021 Tommaso Laurenzi, MIT licence (github.com/rebelot/kanagawa.nvim). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: tertiary, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: syntax.keyword).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#7E9CD8",
+      "light": "#4D699B"
+    },
+    "chrome": {
+      "dark": "#181820",
+      "light": "#E7DBA0"
+    },
+    "editor": {
+      "dark": "#1F1F28",
+      "light": "#F2ECBC"
+    },
+    "h1": {
+      "dark": "#957FB8",
+      "light": "#624C83"
+    },
+    "h2": {
+      "dark": "#E46876",
+      "light": "#BD3649"
+    },
+    "ink": {
+      "dark": "#DCD7BA",
+      "light": "#545464"
+    },
+    "secondary": {
+      "dark": "#C8C093",
+      "light": "#43436C"
+    },
+    "sidebar": {
+      "dark": "#16161D",
+      "light": "#DCD5AC"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#727169",
+        "light": "#85847B"
+      },
+      "function": {
+        "dark": "#7E9CD8",
+        "light": "#4B6798"
+      },
+      "keyword": {
+        "dark": "#9882BA",
+        "light": "#624C83"
+      },
+      "number": {
+        "dark": "#D27E99",
+        "light": "#A04A67"
+      },
+      "string": {
+        "dark": "#98BB6C",
+        "light": "#576C3D"
+      },
+      "type": {
+        "dark": "#7AA89F",
+        "light": "#4E6C67"
+      }
+    },
+    "tertiary": {
+      "dark": "#727169",
+      "light": "#85847B"
+    }
+  },
+  "fonts": {
+    "body": "Literata",
+    "code": "IBM Plex Mono",
+    "headingWeight": "semibold",
+    "headings": "Literata"
+  },
+  "name": "Kanagawa",
+  "overrides": {
+    "quoteBar": {
+      "dark": "#00000000",
+      "light": "#00000000"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "about": "A Markpad theme: a ruled notebook page.",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#8FAAE0",
+      "light": "#2F4F8F"
+    },
+    "chrome": {
+      "dark": "#232220",
+      "light": "#F1ECE1"
+    },
+    "editor": {
+      "dark": "#1B1A17",
+      "light": "#FBF8F1"
+    },
+    "ink": {
+      "dark": "#E4DED2",
+      "light": "#2A2620"
+    },
+    "paperRule": {
+      "dark": "#8FAAE02E",
+      "light": "#2F4F8F29"
+    },
+    "secondary": {
+      "dark": "#A59E91",
+      "light": "#6B6357"
+    },
+    "sidebar": {
+      "dark": "#161513",
+      "light": "#F1ECE1"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#7A7469",
+        "light": "#8F8678"
+      },
+      "function": {
+        "dark": "#E4DED2",
+        "light": "#2A2620"
+      },
+      "keyword": {
+        "dark": "#8FAAE0",
+        "light": "#2F4F8F"
+      },
+      "number": {
+        "dark": "#E09A84",
+        "light": "#8F3F2F"
+      },
+      "string": {
+        "dark": "#A3C48A",
+        "light": "#4F6F3A"
+      },
+      "type": {
+        "dark": "#8FAAE0",
+        "light": "#2F4F8F"
+      }
+    },
+    "tertiary": {
+      "dark": "#7A7469",
+      "light": "#8F8678"
+    }
+  },
+  "fonts": {
+    "body": "Crimson Pro",
+    "code": "IBM Plex Mono",
+    "headingWeight": "semibold",
+    "headings": "Fraunces"
+  },
+  "name": "Manuscript",
+  "overrides": {
+    "quoteBar": {
+      "dark": "#00000000",
+      "light": "#00000000"
+    }
+  },
+  "paper": {
+    "texture": "ruled"
+  }
+}

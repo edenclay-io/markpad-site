@@ -1,0 +1,79 @@
+{
+  "about": "Colours from Tokyo Night (Night and Light), © 2018-present Enkia, MIT licence (github.com/tokyo-night/tokyo-night-vscode-theme). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (dark: tertiary, syntax.comment).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#7AA2F7",
+      "light": "#2959AA"
+    },
+    "chrome": {
+      "dark": "#16161E",
+      "light": "#D6D8DF"
+    },
+    "editor": {
+      "dark": "#1A1B26",
+      "light": "#E6E7ED"
+    },
+    "h1": {
+      "dark": "#BB9AF7",
+      "light": "#5A3E8E"
+    },
+    "h2": {
+      "dark": "#7DCFFF",
+      "light": "#0F4B6E"
+    },
+    "ink": {
+      "dark": "#A9B1D6",
+      "light": "#343B59"
+    },
+    "secondary": {
+      "dark": "#9AA5CE",
+      "light": "#40434F"
+    },
+    "sidebar": {
+      "dark": "#16161E",
+      "light": "#D6D8DF"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#5F6997",
+        "light": "#6C6E75"
+      },
+      "function": {
+        "dark": "#7AA2F7",
+        "light": "#2959AA"
+      },
+      "keyword": {
+        "dark": "#BB9AF7",
+        "light": "#5A3E8E"
+      },
+      "number": {
+        "dark": "#FF9E64",
+        "light": "#965027"
+      },
+      "string": {
+        "dark": "#9ECE6A",
+        "light": "#385F0D"
+      },
+      "type": {
+        "dark": "#2AC3DE",
+        "light": "#006C86"
+      }
+    },
+    "tertiary": {
+      "dark": "#5E6896",
+      "light": "#6C6E75"
+    }
+  },
+  "fonts": {
+    "body": "Geist",
+    "code": "JetBrains Mono",
+    "headingWeight": "semibold",
+    "headings": "Geist"
+  },
+  "name": "Tokyo Night"
+}

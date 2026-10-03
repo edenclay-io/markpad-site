@@ -1,0 +1,97 @@
+{
+  "about": "Colours from Catppuccin (Latte and Mocha), © 2021 Catppuccin, MIT licence (github.com/catppuccin/palette). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type).",
+  "chrome": {
+    "radius": 8,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#CBA6F7",
+      "light": "#8839EF"
+    },
+    "chrome": {
+      "dark": "#181825",
+      "light": "#E6E9EF"
+    },
+    "editor": {
+      "dark": "#1E1E2E",
+      "light": "#EFF1F5"
+    },
+    "h1": {
+      "dark": "#CBA6F7",
+      "light": "#8839EF"
+    },
+    "h2": {
+      "dark": "#89B4FA",
+      "light": "#145FF5"
+    },
+    "ink": {
+      "dark": "#CDD6F4",
+      "light": "#4C4F69"
+    },
+    "link": {
+      "dark": "#89B4FA",
+      "light": "#0B59F4"
+    },
+    "quoteFill": {
+      "dark": "#CDD6F40F",
+      "light": "#4C4F690F"
+    },
+    "secondary": {
+      "dark": "#A6ADC8",
+      "light": "#5E6174"
+    },
+    "sidebar": {
+      "dark": "#181825",
+      "light": "#E6E9EF"
+    },
+    "statusBar": {
+      "dark": "#11111B",
+      "light": "#DCE0E8"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#9399B2",
+        "light": "#7C7F93"
+      },
+      "function": {
+        "dark": "#89B4FA",
+        "light": "#0F5CF4"
+      },
+      "keyword": {
+        "dark": "#CBA6F7",
+        "light": "#8839EF"
+      },
+      "number": {
+        "dark": "#FAB387",
+        "light": "#B74301"
+      },
+      "string": {
+        "dark": "#A6E3A1",
+        "light": "#307820"
+      },
+      "type": {
+        "dark": "#F9E2AF",
+        "light": "#925D13"
+      }
+    },
+    "tertiary": {
+      "dark": "#7F849C",
+      "light": "#7E8196"
+    }
+  },
+  "fonts": {
+    "body": "Geist",
+    "code": "JetBrains Mono",
+    "headingWeight": "semibold",
+    "headings": "Fraunces"
+  },
+  "name": "Catppuccin",
+  "overrides": {
+    "quoteBar": {
+      "dark": "#00000000",
+      "light": "#00000000"
+    }
+  }
+}

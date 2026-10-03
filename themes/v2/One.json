@@ -1,0 +1,83 @@
+{
+  "about": "Colours from Atom's One Light and One Dark syntax themes, © 2011-2022 GitHub Inc., MIT licence (github.com/atom/atom). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#61AFEF",
+      "light": "#4078F2"
+    },
+    "chrome": {
+      "dark": "#21252B",
+      "light": "#EAEAEB"
+    },
+    "editor": {
+      "dark": "#282C34",
+      "light": "#FAFAFA"
+    },
+    "h1": {
+      "dark": "#C678DD",
+      "light": "#A626A4"
+    },
+    "h2": {
+      "dark": "#61AFEF",
+      "light": "#2D6AF1"
+    },
+    "ink": {
+      "dark": "#ABB2BF",
+      "light": "#383A42"
+    },
+    "link": {
+      "dark": "#61AFEF",
+      "light": "#2D6AF1"
+    },
+    "secondary": {
+      "dark": "#989EAA",
+      "light": "#646772"
+    },
+    "sidebar": {
+      "dark": "#21252B",
+      "light": "#EAEAEB"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#7F848E",
+        "light": "#8B8C93"
+      },
+      "function": {
+        "dark": "#61AFEF",
+        "light": "#2364F0"
+      },
+      "keyword": {
+        "dark": "#C87CDE",
+        "light": "#A626A4"
+      },
+      "number": {
+        "dark": "#D19A66",
+        "light": "#A35F01"
+      },
+      "string": {
+        "dark": "#98C379",
+        "light": "#3D7B3D"
+      },
+      "type": {
+        "dark": "#56B6C2",
+        "light": "#0176A8"
+      }
+    },
+    "tertiary": {
+      "dark": "#717989",
+      "light": "#8B8C93"
+    }
+  },
+  "fonts": {
+    "body": "sans",
+    "code": "mono",
+    "headingWeight": "semibold",
+    "headings": "sans"
+  },
+  "name": "One"
+}

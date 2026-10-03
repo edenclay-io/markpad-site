@@ -1,0 +1,83 @@
+{
+  "about": "Colours from ayu (Light and Mirage), © Konstantin Pschera, MIT licence (github.com/ayu-theme/ayu-colors). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#FFCC66",
+      "light": "#C7780B"
+    },
+    "chrome": {
+      "dark": "#1F2430",
+      "light": "#F8F9FA"
+    },
+    "editor": {
+      "dark": "#242936",
+      "light": "#FCFCFC"
+    },
+    "h1": {
+      "dark": "#FFA659",
+      "light": "#C15305"
+    },
+    "h2": {
+      "dark": "#73D0FF",
+      "light": "#1479AD"
+    },
+    "ink": {
+      "dark": "#CCCAC2",
+      "light": "#5C6166"
+    },
+    "link": {
+      "dark": "#FFCC66",
+      "light": "#A56409"
+    },
+    "secondary": {
+      "dark": "#959CAA",
+      "light": "#636F81"
+    },
+    "sidebar": {
+      "dark": "#1F2430",
+      "light": "#F3F4F5"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#6E7C8F",
+        "light": "#8E8F93"
+      },
+      "function": {
+        "dark": "#FFCD66",
+        "light": "#946700"
+      },
+      "keyword": {
+        "dark": "#FFA659",
+        "light": "#BC5105"
+      },
+      "number": {
+        "dark": "#DFBFFF",
+        "light": "#8C59BF"
+      },
+      "string": {
+        "dark": "#D5FF80",
+        "light": "#5C7B00"
+      },
+      "type": {
+        "dark": "#73D0FF",
+        "light": "#1479AD"
+      }
+    },
+    "tertiary": {
+      "dark": "#6E7C8F",
+      "light": "#8E8F93"
+    }
+  },
+  "fonts": {
+    "body": "sans",
+    "code": "JetBrains Mono",
+    "headingWeight": "semibold",
+    "headings": "sans"
+  },
+  "name": "Ayu"
+}

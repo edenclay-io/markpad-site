@@ -1,0 +1,429 @@
+{
+  "themes": [
+    {
+      "id": "sepia",
+      "name": "Sepia",
+      "author": "Markpad",
+      "description": "Warm brown paper with a faint grain, an amber accent and warm code colours.",
+      "file": "Sepia.json",
+      "preview": "previews/Sepia-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Sepia-light-window.jpg",
+          "closeup": "previews/Sepia-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Sepia-dark-window.jpg",
+          "closeup": "previews/Sepia-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "17f8f75f4a43dd3183ab7394509f84c444e18af58607a345e38c232b3e248103",
+        "69641c4bbec41b4e2eba36f168dda385d8a53c3d59ef18f0f9401ee124bda4a3"
+      ],
+      "previousSha256": [
+        "292d6904eb7658f654a63199887729640214e9ead8749c375f1433bf44cf23b4",
+        "fc33d1a0f0b559abb1ee530622cecdbcce579d510142a9d1931b7e573f7439bf",
+        "5f4a0743ed8c2f025fd346925456f96d60dae83483949dbb87a770c1936533e5",
+        "eac3872dee3919c907d5b04bd06ceee8cad18a9e80bc0b23c4ff7d9afb8ae507"
+      ]
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "author": "Markpad",
+      "description": "Black, white and one orange. Geist and JetBrains Mono, square corners, an orange rule under the title.",
+      "file": "Graphite.json",
+      "preview": "previews/Graphite-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Graphite-light-window.jpg",
+          "closeup": "previews/Graphite-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Graphite-dark-window.jpg",
+          "closeup": "previews/Graphite-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "a5a9e5b93cb3ba20c3dc7cc2c75b6b7c5320a8be9405300c93ecf75e4287c655"
+      ],
+      "previousSha256": [
+        "88d3ee8b1da9dab433e7c857eb4b6338a0621d8e2d6199ea6db426b4d2993d58",
+        "1c75929e232cbf94ce47d21f45b839be404a3eb1a98868e00e891bde31b5e60d"
+      ]
+    },
+    {
+      "id": "typewriter",
+      "name": "Typewriter",
+      "author": "Markpad",
+      "description": "IBM Plex Mono throughout on grained paper, an amber accent, quotes in italic with no bar.",
+      "file": "Typewriter.json",
+      "preview": "previews/Typewriter-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Typewriter-light-window.jpg",
+          "closeup": "previews/Typewriter-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Typewriter-dark-window.jpg",
+          "closeup": "previews/Typewriter-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "6bb628b85e10c50e54678a8f839d8fe982c64b04ccb1c9241fc0da9ac8cb499d"
+      ],
+      "previousSha256": [
+        "3cc19302221538e864eaeee9b98929cd975eb52cf6bd27cc17680c1680bb7569",
+        "cddb5ebb09b079e20a8a2797b5a55b6ed05a599f56b87a8074a53a1ab99fed43"
+      ]
+    },
+    {
+      "id": "manuscript",
+      "name": "Manuscript",
+      "author": "Markpad",
+      "description": "Ruled ivory paper that follows the text's own lines; Crimson Pro under Fraunces titles, ink-blue accent.",
+      "file": "Manuscript.json",
+      "preview": "previews/Manuscript-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Manuscript-light-window.jpg",
+          "closeup": "previews/Manuscript-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Manuscript-dark-window.jpg",
+          "closeup": "previews/Manuscript-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "931a1c34f326e7566640beb2d7fdec5cdfd5509b196b6afc060fa92280a39c32"
+      ],
+      "previousSha256": []
+    },
+    {
+      "id": "newsprint",
+      "name": "Newsprint",
+      "author": "Markpad",
+      "description": "Grey-cream newsprint with a grain, heavy Literata, a rule under the title, monochrome code.",
+      "file": "Newsprint.json",
+      "preview": "previews/Newsprint-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Newsprint-light-window.jpg",
+          "closeup": "previews/Newsprint-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Newsprint-dark-window.jpg",
+          "closeup": "previews/Newsprint-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "d151af6db3677efadfa590239f6f43fa969f997f70f3a0d54672694aaa57439e"
+      ],
+      "previousSha256": []
+    },
+    {
+      "id": "legible",
+      "name": "Legible",
+      "author": "Markpad",
+      "description": "Atkinson Hyperlegible for every letter, every colour at least 4.5:1, a rule under the title.",
+      "file": "Legible.json",
+      "preview": "previews/Legible-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Legible-light-window.jpg",
+          "closeup": "previews/Legible-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Legible-dark-window.jpg",
+          "closeup": "previews/Legible-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "8815b72c47f2c66670720653745632e3826b88b7144cb48f9580b70398b94d4d"
+      ],
+      "previousSha256": []
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "author": "Port · MIT",
+      "description": "Arctic blue-grey. Nord is dark-first; the light side follows its bright-ambiance guide. Contrast-adjusted (light and dark).",
+      "file": "Nord.json",
+      "preview": "previews/Nord-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Nord-light-window.jpg",
+          "closeup": "previews/Nord-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Nord-dark-window.jpg",
+          "closeup": "previews/Nord-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "044b1b85dd1026d90a10c9c3c6742b8d4e0f1d63d2b2f7a1a4e677fc5d8571fb"
+      ],
+      "previousSha256": [
+        "5586a8458a41db5d5ab5eddea17bbc8b252a7b588d6722413b02cd9c8c49380f"
+      ]
+    },
+    {
+      "id": "catppuccin",
+      "name": "Catppuccin",
+      "author": "Port · MIT",
+      "description": "Latte (light) and Mocha (dark): soft pastels, Fraunces titles over Geist, quotes on cards. Contrast-adjusted (light).",
+      "file": "Catppuccin.json",
+      "preview": "previews/Catppuccin-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Catppuccin-light-window.jpg",
+          "closeup": "previews/Catppuccin-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Catppuccin-dark-window.jpg",
+          "closeup": "previews/Catppuccin-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "e743a94aba0f382343ed90fbe8566a816bb9ecbdc7970093ebc34837d79f451b"
+      ],
+      "previousSha256": [
+        "aa3bb702593e8f21d472d4cca2944a79cdf53387ed77d1dbe098baffd00b15b6"
+      ]
+    },
+    {
+      "id": "gruvbox",
+      "name": "Gruvbox",
+      "author": "Port · MIT",
+      "description": "Retro, warm and earthy, medium contrast; both sides from the official palette. Contrast-adjusted (light and dark).",
+      "file": "Gruvbox.json",
+      "preview": "previews/Gruvbox-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Gruvbox-light-window.jpg",
+          "closeup": "previews/Gruvbox-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Gruvbox-dark-window.jpg",
+          "closeup": "previews/Gruvbox-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "7d3e7c39fb25caeb0ba06c6e8bba6a02d188ae53c9203c0ae63fc2ac9f23bd9d"
+      ],
+      "previousSha256": [
+        "aceea3232f4aaea3cebedfe6061945a9e59f37ae171fcec98e0aad274aa3e1b1"
+      ]
+    },
+    {
+      "id": "solarized",
+      "name": "Solarized",
+      "author": "Port · MIT",
+      "description": "The classic sixteen colours in light and dark, gold and orange headings. Contrast-adjusted (light and dark).",
+      "file": "Solarized.json",
+      "preview": "previews/Solarized-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Solarized-light-window.jpg",
+          "closeup": "previews/Solarized-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Solarized-dark-window.jpg",
+          "closeup": "previews/Solarized-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "f5a950ed26ae8c1c766beff4a8e49f2a92c1b4d1b57d1f77dcbcb1c05433d300"
+      ],
+      "previousSha256": [
+        "f2fb5ba41da989467577c5ef70632e4f5c3ea76ce175aea9a9722b53d2252d49"
+      ]
+    },
+    {
+      "id": "rosepine",
+      "name": "Rosé Pine",
+      "author": "Port · MIT",
+      "description": "Dawn (light) and Main (dark): muted and romantic, Fraunces over Crimson Pro, quotes on cards. Contrast-adjusted (light and dark).",
+      "file": "RosePine.json",
+      "preview": "previews/RosePine-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/RosePine-light-window.jpg",
+          "closeup": "previews/RosePine-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/RosePine-dark-window.jpg",
+          "closeup": "previews/RosePine-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "4b608396ea0f172346fa02a022a538e59a8b5f42fb5e5f5397b94a3ff444069e"
+      ],
+      "previousSha256": [
+        "2c2ff20680ecad89af241aee8df0277b93b5ee73cd0c06d86b92373510c27dcd"
+      ]
+    },
+    {
+      "id": "tokyonight",
+      "name": "Tokyo Night",
+      "author": "Port · MIT",
+      "description": "Night and the official Light: neon city blues and violets. Contrast-adjusted (dark).",
+      "file": "TokyoNight.json",
+      "preview": "previews/TokyoNight-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/TokyoNight-light-window.jpg",
+          "closeup": "previews/TokyoNight-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/TokyoNight-dark-window.jpg",
+          "closeup": "previews/TokyoNight-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "426641af107535ba2fdcebabcf58d6f9530d3302b7f81938148fb23bd070a1f0"
+      ],
+      "previousSha256": [
+        "19d2b21049fae47e252a01d4ce285434ef7607512c48c32c134ade35e2bd741e"
+      ]
+    },
+    {
+      "id": "everforest",
+      "name": "Everforest",
+      "author": "Port · MIT",
+      "description": "Forest greens on warm grained paper, Baskerville and Gill Sans. Contrast-adjusted (light and dark).",
+      "file": "Everforest.json",
+      "preview": "previews/Everforest-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Everforest-light-window.jpg",
+          "closeup": "previews/Everforest-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Everforest-dark-window.jpg",
+          "closeup": "previews/Everforest-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "1ff18d603441a9ff938d057641e537af9dc6cf3052839dbb7821b0524b9eb18e"
+      ],
+      "previousSha256": [
+        "90bc58e61764c5a42497eb6d5766fc0c01af5c009b16daec760892f7e957f0e6"
+      ]
+    },
+    {
+      "id": "kanagawa",
+      "name": "Kanagawa",
+      "author": "Port · MIT",
+      "description": "Lotus (light) and Wave (dark): Hokusai's ink and paper, Literata, quotes in italic. Contrast-adjusted (light and dark).",
+      "file": "Kanagawa.json",
+      "preview": "previews/Kanagawa-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Kanagawa-light-window.jpg",
+          "closeup": "previews/Kanagawa-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Kanagawa-dark-window.jpg",
+          "closeup": "previews/Kanagawa-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "0aacb906be589cd6fb20a978dd701b8839d8282538520ff5e3e8c09c367af26e"
+      ],
+      "previousSha256": [
+        "4ec727b887e885dbf38360cc25f51761d8d1a15c84863a6c542f3dabac3f473e"
+      ]
+    },
+    {
+      "id": "one",
+      "name": "One",
+      "author": "Port · MIT",
+      "description": "One Light and One Dark, the editor classic, in system sans and mono. Contrast-adjusted (light and dark).",
+      "file": "One.json",
+      "preview": "previews/One-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/One-light-window.jpg",
+          "closeup": "previews/One-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/One-dark-window.jpg",
+          "closeup": "previews/One-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "5048938883dc586bba27c2f7bc1b04c77018e9f0d0bb8bbb8f1bb69d2eb92df5"
+      ],
+      "previousSha256": [
+        "7b639139d749230608991cb904edc0adcc7c4c3f092b02bb888d64835cf97ea9"
+      ]
+    },
+    {
+      "id": "ayu",
+      "name": "Ayu",
+      "author": "Port · MIT",
+      "description": "Light and Mirage: bright, sunny accents. Contrast-adjusted (light and dark).",
+      "file": "Ayu.json",
+      "preview": "previews/Ayu-light-closeup.jpg",
+      "previews": {
+        "light": {
+          "window": "previews/Ayu-light-window.jpg",
+          "closeup": "previews/Ayu-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/Ayu-dark-window.jpg",
+          "closeup": "previews/Ayu-dark-closeup.jpg"
+        }
+      },
+      "sha256": [
+        "7e7d10c17e16b1970ec0f4800148950841a714f8cad6176aa812bce382a83b8f"
+      ],
+      "previousSha256": [
+        "cdbabb861f0455af11afbd0025d4e64d17537b88c18a7e4a5f15ccd9948be13e"
+      ]
+    }
+  ],
+  "builtins": [
+    {
+      "id": "warm-bench",
+      "previews": {
+        "light": {
+          "window": "previews/warm-bench-light-window.jpg",
+          "closeup": "previews/warm-bench-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/warm-bench-dark-window.jpg",
+          "closeup": "previews/warm-bench-dark-closeup.jpg"
+        }
+      }
+    },
+    {
+      "id": "paper",
+      "previews": {
+        "light": {
+          "window": "previews/paper-light-window.jpg",
+          "closeup": "previews/paper-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/paper-dark-window.jpg",
+          "closeup": "previews/paper-dark-closeup.jpg"
+        }
+      }
+    },
+    {
+      "id": "night-bench",
+      "previews": {
+        "light": {
+          "window": "previews/night-bench-light-window.jpg",
+          "closeup": "previews/night-bench-light-closeup.jpg"
+        },
+        "dark": {
+          "window": "previews/night-bench-dark-window.jpg",
+          "closeup": "previews/night-bench-dark-closeup.jpg"
+        }
+      }
+    }
+  ]
+}

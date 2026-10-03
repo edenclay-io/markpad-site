@@ -1,0 +1,93 @@
+{
+  "about": "A Markpad theme: neutral greys, black-and-white ink, one orange.",
+  "chrome": {
+    "radius": 0,
+    "sidebarRowHeight": 22,
+    "tabHeight": 26
+  },
+  "colors": {
+    "accent": {
+      "dark": "#FF8A3D",
+      "light": "#C4500F"
+    },
+    "chrome": {
+      "dark": "#1A1A1A",
+      "light": "#F2F2F2"
+    },
+    "editor": {
+      "dark": "#111111",
+      "light": "#FFFFFF"
+    },
+    "ink": {
+      "dark": "#EDEDED",
+      "light": "#111111"
+    },
+    "secondary": {
+      "dark": "#A0A0A0",
+      "light": "#555555"
+    },
+    "sidebar": {
+      "dark": "#0A0A0A",
+      "light": "#F2F2F2"
+    },
+    "statusBar": {
+      "dark": "#0A0A0A",
+      "light": "#F2F2F2"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#7A7A7A",
+        "light": "#8C8C8C"
+      },
+      "function": {
+        "dark": "#EDEDED",
+        "light": "#111111"
+      },
+      "keyword": {
+        "dark": "#FF8A3D",
+        "light": "#BF4E0F"
+      },
+      "number": {
+        "dark": "#FF8A3D",
+        "light": "#BF4E0F"
+      },
+      "string": {
+        "dark": "#CFCFCF",
+        "light": "#3A3A3A"
+      },
+      "type": {
+        "dark": "#EDEDED",
+        "light": "#111111"
+      }
+    },
+    "tertiary": {
+      "dark": "#6A6A6A",
+      "light": "#8C8C8C"
+    },
+    "titleRule": {
+      "dark": "#FF8A3D",
+      "light": "#C4500F"
+    }
+  },
+  "fonts": {
+    "body": "Geist",
+    "code": "JetBrains Mono",
+    "headingWeight": "semibold",
+    "headings": "Geist"
+  },
+  "metrics": {
+    "cardRadius": 0,
+    "checkboxRadius": 0
+  },
+  "name": "Graphite",
+  "washes": {
+    "hairline": {
+      "dark": 0.12,
+      "light": 0.12
+    },
+    "sidebarSelection": {
+      "dark": 0.18,
+      "light": 0.1
+    }
+  }
+}

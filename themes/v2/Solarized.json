@@ -1,0 +1,83 @@
+{
+  "about": "Colours from Solarized, © 2011 Ethan Schoonover, MIT licence (github.com/altercation/solarized). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: ink, secondary, tertiary, link, h2, syntax.keyword, syntax.function, syntax.type).",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#268BD2",
+      "light": "#268BD2"
+    },
+    "chrome": {
+      "dark": "#073642",
+      "light": "#EEE8D5"
+    },
+    "editor": {
+      "dark": "#002B36",
+      "light": "#FDF6E3"
+    },
+    "h1": {
+      "dark": "#B58900",
+      "light": "#8C6A00"
+    },
+    "h2": {
+      "dark": "#E96630",
+      "light": "#C24815"
+    },
+    "ink": {
+      "dark": "#A1ADAD",
+      "light": "#51666C"
+    },
+    "link": {
+      "dark": "#3295DA",
+      "light": "#2074AF"
+    },
+    "secondary": {
+      "dark": "#8B9B9D",
+      "light": "#586B72"
+    },
+    "sidebar": {
+      "dark": "#073642",
+      "light": "#EEE8D5"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#657B83",
+        "light": "#7D8E8E"
+      },
+      "function": {
+        "dark": "#3B99DC",
+        "light": "#1F71AB"
+      },
+      "keyword": {
+        "dark": "#899E00",
+        "light": "#667500"
+      },
+      "number": {
+        "dark": "#2AA198",
+        "light": "#1F7972"
+      },
+      "string": {
+        "dark": "#2AA198",
+        "light": "#1F7972"
+      },
+      "type": {
+        "dark": "#BA8D00",
+        "light": "#876600"
+      }
+    },
+    "tertiary": {
+      "dark": "#617981",
+      "light": "#7D8E8E"
+    }
+  },
+  "fonts": {
+    "body": "serif",
+    "code": "mono",
+    "headingWeight": "semibold",
+    "headings": "Avenir Next"
+  },
+  "name": "Solarized"
+}

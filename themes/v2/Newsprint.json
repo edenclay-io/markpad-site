@@ -1,0 +1,56 @@
+{
+  "about": "A Markpad theme: the evening paper.",
+  "chrome": {
+    "radius": 0,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#F06A5F",
+      "light": "#B3261E"
+    },
+    "chrome": {
+      "dark": "#1C1C1A",
+      "light": "#E6E2D9"
+    },
+    "editor": {
+      "dark": "#141413",
+      "light": "#F2EFE8"
+    },
+    "ink": {
+      "dark": "#ECE9E2",
+      "light": "#161616"
+    },
+    "secondary": {
+      "dark": "#A6A29B",
+      "light": "#4F4B45"
+    },
+    "sidebar": {
+      "dark": "#0F0F0E",
+      "light": "#E6E2D9"
+    },
+    "tertiary": {
+      "dark": "#6E6B66",
+      "light": "#85807A"
+    },
+    "titleRule": {
+      "dark": "#ECE9E2",
+      "light": "#161616"
+    }
+  },
+  "fonts": {
+    "body": "Literata",
+    "code": "JetBrains Mono",
+    "headingWeight": "heavy",
+    "headings": "Literata"
+  },
+  "metrics": {
+    "cardRadius": 0,
+    "checkboxRadius": 0
+  },
+  "name": "Newsprint",
+  "paper": {
+    "texture": "grain"
+  }
+}

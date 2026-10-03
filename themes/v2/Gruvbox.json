@@ -1,0 +1,79 @@
+{
+  "about": "Colours from gruvbox, © Pavel Pertsev (morhetz), MIT/X11 licence (github.com/morhetz/gruvbox). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, syntax.string, syntax.function, syntax.type; dark: secondary, h1, syntax.keyword).",
+  "chrome": {
+    "radius": 2,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#FE8019",
+      "light": "#AF3A03"
+    },
+    "chrome": {
+      "dark": "#3C3836",
+      "light": "#EBDBB2"
+    },
+    "editor": {
+      "dark": "#282828",
+      "light": "#FBF1C7"
+    },
+    "h1": {
+      "dark": "#FB5643",
+      "light": "#9D0006"
+    },
+    "h2": {
+      "dark": "#83A598",
+      "light": "#076678"
+    },
+    "ink": {
+      "dark": "#EBDBB2",
+      "light": "#3C3836"
+    },
+    "secondary": {
+      "dark": "#AEA08D",
+      "light": "#685D54"
+    },
+    "sidebar": {
+      "dark": "#32302F",
+      "light": "#EBDBB2"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#928374",
+        "light": "#928374"
+      },
+      "function": {
+        "dark": "#8EC07C",
+        "light": "#3E7453"
+      },
+      "keyword": {
+        "dark": "#FC6452",
+        "light": "#9D0006"
+      },
+      "number": {
+        "dark": "#D3869B",
+        "light": "#8F3F71"
+      },
+      "string": {
+        "dark": "#B8BB26",
+        "light": "#706B0D"
+      },
+      "type": {
+        "dark": "#FABD2F",
+        "light": "#905E10"
+      }
+    },
+    "tertiary": {
+      "dark": "#928374",
+      "light": "#928374"
+    }
+  },
+  "fonts": {
+    "body": "Literata",
+    "code": "IBM Plex Mono",
+    "headingWeight": "bold",
+    "headings": "Literata"
+  },
+  "name": "Gruvbox"
+}

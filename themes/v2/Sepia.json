@@ -1,0 +1,147 @@
+{
+  "about": "A Markpad theme. Each colour is #RRGGBB in light and dark. editor = the paper, chrome = sidebar/tabs/status bar, ink = text, secondary = markers and captions, tertiary = bullets and dim captions, accent = caret/links/checks. Optional colours: sidebar, tabStrip, statusBar, inspector, activeTab (each defaults to chrome or the paper), h1-h6 (heading ink per level), titleRule (a rule under each title), quoteFill (a card behind quotes), cardLabel, listNumber, rule, codeSpanInk, link, paperGrain, paperRule, tertiaryText and accentText (the tertiary and accent where they are text; absent = made readable for you), and syntax (keyword, string, number, function, type, comment: code in colour). washes are alphas (0-1) of the ink or accent; metrics are optional geometry (measure 320-1200, radii, widths). fonts name faces (serif, sans, mono, a font Markpad ships such as Literata or IBM Plex Mono, or an installed family) and the heading weight; scale is the type ladder at 17pt (h1-h6 size + leading, body and code leadings). colors.headings is the heading ink; overrides re-tint any palette colour by name (codeSpanFill, quoteBar, marker, bullet, cardFill, tableHeaderFill, linkUnderline, ...), #RRGGBBAA for a wash's alpha. chrome sets the window's radius (0 = square), sidebar row height (density) and tab height. paper.texture is plain, grain or ruled. Save the file and Markpad re-renders; Settings > General lists it by name.",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#D98B4A",
+      "light": "#9A5B2B"
+    },
+    "chrome": {
+      "dark": "#27211A",
+      "light": "#EBE2D2"
+    },
+    "diffAdded": {
+      "dark": "#8FC276",
+      "light": "#487335"
+    },
+    "diffRemoved": {
+      "dark": "#E07A62",
+      "light": "#A8432F"
+    },
+    "editor": {
+      "dark": "#1E1913",
+      "light": "#F6EFE3"
+    },
+    "headings": {
+      "dark": "#F0E6D2",
+      "light": "#2E2419"
+    },
+    "ink": {
+      "dark": "#E6DCCB",
+      "light": "#3B2F23"
+    },
+    "secondary": {
+      "dark": "#A8998A",
+      "light": "#716252"
+    },
+    "sidebar": {
+      "dark": "#19150F",
+      "light": "#EBE2D2"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#857868",
+        "light": "#938472"
+      },
+      "function": {
+        "dark": "#8FB8D9",
+        "light": "#2F5F7A"
+      },
+      "keyword": {
+        "dark": "#D98B4A",
+        "light": "#96592A"
+      },
+      "number": {
+        "dark": "#E07A62",
+        "light": "#A8432F"
+      },
+      "string": {
+        "dark": "#8FC276",
+        "light": "#487335"
+      },
+      "type": {
+        "dark": "#E0B070",
+        "light": "#7A5A2B"
+      }
+    },
+    "tertiary": {
+      "dark": "#74685B",
+      "light": "#938472"
+    }
+  },
+  "fonts": {
+    "body": "serif",
+    "code": "mono",
+    "headingWeight": "bold",
+    "headings": "serif"
+  },
+  "metrics": {
+    "cardBorderWidth": 1,
+    "cardRadius": 4,
+    "checkboxRadius": 3,
+    "measure": 640,
+    "quoteBarWidth": 3,
+    "ruleThickness": 1
+  },
+  "name": "Sepia",
+  "overrides": {
+    "codeSpanFill": {
+      "dark": "#D98B4A22",
+      "light": "#9A5B2B14"
+    },
+    "quoteBar": {
+      "dark": "#D98B4A",
+      "light": "#9A5B2B"
+    }
+  },
+  "paper": {
+    "texture": "grain"
+  },
+  "scale": {
+    "body": {
+      "leading": 27
+    },
+    "code": {
+      "leading": 21,
+      "size": 14
+    },
+    "h1": {
+      "leading": 38,
+      "size": 29
+    },
+    "h2": {
+      "leading": 33,
+      "size": 24
+    },
+    "h3": {
+      "leading": 29,
+      "size": 20
+    },
+    "h4": {
+      "leading": 27,
+      "size": 18
+    },
+    "h5": {
+      "leading": 27,
+      "size": 17
+    },
+    "h6": {
+      "leading": 27,
+      "size": 14
+    }
+  },
+  "washes": {
+    "hairline": {
+      "dark": 0.09,
+      "light": 0.1
+    },
+    "sidebarSelection": {
+      "dark": 0.18,
+      "light": 0.12
+    }
+  }
+}

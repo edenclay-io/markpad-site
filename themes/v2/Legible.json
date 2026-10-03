@@ -1,0 +1,75 @@
+{
+  "about": "A Markpad theme for reading ease: the Braille Institute's Atkinson Hyperlegible.",
+  "chrome": {
+    "radius": 4,
+    "sidebarRowHeight": 24,
+    "tabHeight": 28
+  },
+  "colors": {
+    "accent": {
+      "dark": "#7FB2FF",
+      "light": "#0B57C2"
+    },
+    "chrome": {
+      "dark": "#1A1A1A",
+      "light": "#EFEFEF"
+    },
+    "editor": {
+      "dark": "#0E0E0E",
+      "light": "#FFFFFF"
+    },
+    "ink": {
+      "dark": "#F5F5F5",
+      "light": "#0A0A0A"
+    },
+    "secondary": {
+      "dark": "#C9C9C9",
+      "light": "#3D3D3D"
+    },
+    "sidebar": {
+      "dark": "#080808",
+      "light": "#EFEFEF"
+    },
+    "syntax": {
+      "comment": {
+        "dark": "#A0A0A0",
+        "light": "#5E5E5E"
+      },
+      "function": {
+        "dark": "#F5F5F5",
+        "light": "#0A0A0A"
+      },
+      "keyword": {
+        "dark": "#7FB2FF",
+        "light": "#0B57C2"
+      },
+      "number": {
+        "dark": "#F0A0E0",
+        "light": "#9B2C8A"
+      },
+      "string": {
+        "dark": "#7FD08A",
+        "light": "#1E6B2A"
+      },
+      "type": {
+        "dark": "#F0C870",
+        "light": "#7A4A00"
+      }
+    },
+    "tertiary": {
+      "dark": "#A0A0A0",
+      "light": "#5E5E5E"
+    },
+    "titleRule": {
+      "dark": "#F5F5F540",
+      "light": "#0A0A0A40"
+    }
+  },
+  "fonts": {
+    "body": "Atkinson Hyperlegible Next",
+    "code": "Atkinson Hyperlegible Mono",
+    "headingWeight": "bold",
+    "headings": "Atkinson Hyperlegible Next"
+  },
+  "name": "Legible"
+}
