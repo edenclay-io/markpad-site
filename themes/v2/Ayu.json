@@ -1,5 +1,5 @@
 {
-  "about": "Colours from ayu (Light and Mirage), © Konstantin Pschera, MIT licence (github.com/ayu-theme/ayu-colors). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary).",
+  "about": "Colours from ayu (Light and Mirage), © Konstantin Pschera, MIT licence (github.com/ayu-theme/ayu-colors). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

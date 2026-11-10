@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Catppuccin (Latte and Mocha), © 2021 Catppuccin, MIT licence (github.com/catppuccin/palette). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type).",
+  "about": "Colours from Catppuccin (Latte and Mocha), © 2021 Catppuccin, MIT licence (github.com/catppuccin/palette). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type).",
   "chrome": {
     "radius": 8,
     "sidebarRowHeight": 24,

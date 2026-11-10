@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Kanagawa (Lotus and Wave), © 2021 Tommaso Laurenzi, MIT licence (github.com/rebelot/kanagawa.nvim). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: tertiary, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: syntax.keyword).",
+  "about": "Colours from Kanagawa (Lotus and Wave), © 2021 Tommaso Laurenzi, MIT licence (github.com/rebelot/kanagawa.nvim). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: tertiary, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: syntax.keyword).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

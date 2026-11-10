@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SageMark</title>
+        <item>
+            <title>0.1.2079</title>
+            <pubDate>Mon, 09 Nov 2026 20:38:48 -0600</pubDate>
+            <sparkle:version>2079</sparkle:version>
+            <sparkle:shortVersionString>0.1.2079</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2079/SageMark-0.1.2079.dmg" length="31364338" type="application/octet-stream" sparkle:edSignature="LdP4Y2FOr0uJWYqJGtZ1/ZLCHRSO9x0jFS2T7Bw0tTDBU1PCM3GjujvWVqVxE88PqjG5d+doHblBAn663OPQDA=="/>
+        </item>
+    </channel>
+</rss>

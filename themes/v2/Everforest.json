@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Everforest, © 2019 sainnhe, MIT licence (github.com/sainnhe/everforest). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, syntax.keyword).",
+  "about": "Colours from Everforest, © 2019 sainnhe, MIT licence (github.com/sainnhe/everforest). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, syntax.keyword).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

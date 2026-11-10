@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Rosé Pine (Dawn and Main), © mvllow, MIT licence (github.com/rose-pine/rose-pine-palette). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: tertiary, syntax.keyword).",
+  "about": "Colours from Rosé Pine (Dawn and Main), © mvllow, MIT licence (github.com/rose-pine/rose-pine-palette). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, secondary, tertiary, link, h1, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: tertiary, syntax.keyword).",
   "chrome": {
     "radius": 6,
     "sidebarRowHeight": 24,

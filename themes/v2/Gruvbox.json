@@ -1,5 +1,5 @@
 {
-  "about": "Colours from gruvbox, © Pavel Pertsev (morhetz), MIT/X11 licence (github.com/morhetz/gruvbox). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, syntax.string, syntax.function, syntax.type; dark: secondary, h1, syntax.keyword).",
+  "about": "Colours from gruvbox, © Pavel Pertsev (morhetz), MIT/X11 licence (github.com/morhetz/gruvbox). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, syntax.string, syntax.function, syntax.type; dark: secondary, h1, syntax.keyword).",
   "chrome": {
     "radius": 2,
     "sidebarRowHeight": 24,

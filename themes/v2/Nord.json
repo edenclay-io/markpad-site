@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Nord, © 2016-present Sven Greb, MIT licence (github.com/nordtheme/nord). The light side is Markpad's, after Nord's bright-ambiance guide. Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, tertiary, link, h1, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword, syntax.number, syntax.comment).",
+  "about": "Colours from Nord, © 2016-present Sven Greb, MIT licence (github.com/nordtheme/nord). The light side is SageMark's, after Nord's bright-ambiance guide. SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: accent, tertiary, link, h1, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword, syntax.number, syntax.comment).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

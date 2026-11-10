@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Solarized, © 2011 Ethan Schoonover, MIT licence (github.com/altercation/solarized). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: ink, secondary, tertiary, link, h2, syntax.keyword, syntax.function, syntax.type).",
+  "about": "Colours from Solarized, © 2011 Ethan Schoonover, MIT licence (github.com/altercation/solarized). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: ink, secondary, tertiary, link, h1, h2, syntax.keyword, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: ink, secondary, tertiary, link, h2, syntax.keyword, syntax.function, syntax.type).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

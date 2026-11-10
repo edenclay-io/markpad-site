@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Tokyo Night (Night and Light), © 2018-present Enkia, MIT licence (github.com/tokyo-night/tokyo-night-vscode-theme). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (dark: tertiary, syntax.comment).",
+  "about": "Colours from Tokyo Night (Night and Light), © 2018-present Enkia, MIT licence (github.com/tokyo-night/tokyo-night-vscode-theme). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (dark: tertiary, syntax.comment).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,

@@ -1,5 +1,5 @@
 {
-  "about": "Colours from Atom's One Light and One Dark syntax themes, © 2011-2022 GitHub Inc., MIT licence (github.com/atom/atom). Markpad moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword).",
+  "about": "Colours from Atom's One Light and One Dark syntax themes, © 2011-2022 GitHub Inc., MIT licence (github.com/atom/atom). SageMark moved the lightness of some colours, hue kept, to meet its contrast floors (light: secondary, tertiary, link, h2, syntax.string, syntax.number, syntax.function, syntax.type, syntax.comment; dark: secondary, tertiary, syntax.keyword).",
   "chrome": {
     "radius": 4,
     "sidebarRowHeight": 24,
