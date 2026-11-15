@@ -3,13 +3,16 @@
     <channel>
         <title>SageMark</title>
         <item>
-            <title>0.1.2079</title>
-            <pubDate>Mon, 09 Nov 2026 20:38:48 -0600</pubDate>
-            <sparkle:version>2079</sparkle:version>
-            <sparkle:shortVersionString>0.1.2079</sparkle:shortVersionString>
+            <title>0.1.2144</title>
+            <pubDate>Sat, 14 Nov 2026 18:16:12 -0600</pubDate>
+            <sparkle:version>2144</sparkle:version>
+            <sparkle:shortVersionString>0.1.2144</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2079/SageMark-0.1.2079.dmg" length="31364338" type="application/octet-stream" sparkle:edSignature="LdP4Y2FOr0uJWYqJGtZ1/ZLCHRSO9x0jFS2T7Bw0tTDBU1PCM3GjujvWVqVxE88PqjG5d+doHblBAn663OPQDA=="/>
+            <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2144/SageMark-0.1.2144.dmg" length="32790762" type="application/octet-stream" sparkle:edSignature="UkU60OQ34C2/YXeFhZKUAZLUyr7PNAtF8G2iYRswDHnu0UhZa8tGPL4/FFpl2vWcKQbT465KCr2vW41p/e2VBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2144/SageMark2144-2079.delta" sparkle:deltaFrom="2079" length="5967094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="va3Jxdzw4RdxnzVNFNba4AKzly7d32zMYPlRPxCqRyledW8hCnxvEsOnVt13YHV1Kbbi9X8qelkaqKOv1ImrCg=="/>
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>
