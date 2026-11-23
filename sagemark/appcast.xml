@@ -3,17 +3,18 @@
     <channel>
         <title>SageMark</title>
         <item>
-            <title>0.1.2464</title>
-            <pubDate>Thu, 19 Nov 2026 20:46:15 -0600</pubDate>
-            <sparkle:version>2464</sparkle:version>
-            <sparkle:shortVersionString>0.1.2464</sparkle:shortVersionString>
+            <title>0.1.2633</title>
+            <pubDate>Mon, 23 Nov 2026 17:12:24 -0600</pubDate>
+            <sparkle:version>2633</sparkle:version>
+            <sparkle:shortVersionString>0.1.2633</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2464/SageMark-0.1.2464.dmg" length="34176211" type="application/octet-stream" sparkle:edSignature="vd/+lVLtrBytPi8hkunvQnk4FL8f4N7yvn5vejMqyfMji9v/dRG8kdgjGExAXMGX020GSUXmAa4+Z7Xrv0BvAQ=="/>
+            <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2633/SageMark-0.1.2633.dmg" length="34511054" type="application/octet-stream" sparkle:edSignature="ymTmEZJ00bIAtiijwD3uu1s3IdemWUB3kaabzCFiIogndAH1pZFMQYEHgqevQ3inkJe5NcKh8mMdMOD61x80Dw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2464/SageMark2464-2375.delta" sparkle:deltaFrom="2375" length="6287586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9QINMLlMtchHNDDudFoQhOmlFCfLktaFVqZNC+XTcS6uUeUb78zIXm8ajDW2TZYCUM2IwY9JpE4c9aREEGb+BQ=="/>
-                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2464/SageMark2464-2144.delta" sparkle:deltaFrom="2144" length="8280262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0bhOlj6uJM5lBL7h9+ggkdr+ysQYXPXCsef8kppA6KC6ZGoGKfsXPs6J0mzhuzqJKUHT6+i0Q6XdREIUsa17DQ=="/>
-                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2464/SageMark2464-2079.delta" sparkle:deltaFrom="2079" length="9556254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3SeEovBFvhK1c5Fk7S9jQz3QxuyRxNtgywnZs2+CFKCvsmb0uL3hNvIzX0wvUoP0UTQM9wdQy9puUE5MQDNeBQ=="/>
+                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2633/SageMark2633-2464.delta" sparkle:deltaFrom="2464" length="5173962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qr2JDUS2wBg1RMjD4f2fReN3hLCI7HgVEcfIljfDe58ycR5C+h7DtA7YL5Jb7V/wNxsX5XqEZWaDvKoef5yvAQ=="/>
+                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2633/SageMark2633-2375.delta" sparkle:deltaFrom="2375" length="7427802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RELZ4RVt/tWwxk5t73gE7RPCJXm5notaTPJFakEWuCJERO1gl4EclJsj5AchFXlJzbki3n+2J6pe7jWvnstTDA=="/>
+                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2633/SageMark2633-2144.delta" sparkle:deltaFrom="2144" length="8913938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZcnCP3LOqMyYqqnBQsb3Uu5TYelYAIcq+aWOd7erGqi6N+Tg757cjC1jQgq5Vr3JFHwdnuVJWDT1hOhILW0EAA=="/>
+                <enclosure url="https://github.com/edenclay-io/markpad-site/releases/download/v0.1.2633/SageMark2633-2079.delta" sparkle:deltaFrom="2079" length="10160634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iUrx9OBhjcx7DiIvasjAPiGWo+2jmF7pXcE0bwPAIcQiLrrNTJ9SyV/NIMde0RsTTdWR6Xb7Y99gXpxUDf+9DA=="/>
             </sparkle:deltas>
         </item>
     </channel>
